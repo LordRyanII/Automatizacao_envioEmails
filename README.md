@@ -19,7 +19,7 @@
 - Na pasta backend, no terminal, tanto do vscode ou poweShell. Digite: npm i (para instalar as bibliotecas)<br>
 
 - Após use as seguinte uri: 
-	-  GET: http://localhost:3005/envio/ => Enviar emailks 
+	-  POST: http://localhost:3005/envio/ => Enviar emails 
 		- Body:
 
 				{
