@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const porta = 5005;
+const porta = 3005;
 const nodemailer = require("nodemailer");
 const rotas = require('./src/routes/Principal');
 
