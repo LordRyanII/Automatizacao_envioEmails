@@ -2,7 +2,7 @@
  <h2>Api simples para enviar vários emails</h2> <br>
  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
- <p> O sistema tem mecânica CRUD (create, read, update e delete), autenticação, login e futuramente chatbot integrado. Se chama v2, pois a primeira versão usava o padrão mvc com o uso do ejs, esse padrão era um pouco limitado. </p><br>
+ <p> O sistema facilita o envio de emails, de modo que se pode enviar vários emails de uma só vez. Ideal para quem está procurando emprego, pois basta pegar vários emails e colocar para enviar. Existem apps que fazem algo semelhante porém grande parte é paga. </p><br>
 - Frameworks, bibliotecas usadas e banco de dados<br>
 <ul>
       <li>  Node.js  </li>
